@@ -1,0 +1,24 @@
+.Box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    padding-top: 120px;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.Box2 {
+    width: 500px;
+    height: 200px;
+    border: 2px solid blue;
+    margin-top: 20px;
+    padding: 20px 30px 50px 100px;
+}
+.span1 {
+    border: 2px solid orange;
+    height: 100px;
+    width: 200px;
+    padding-top: 20px;
+    margin-top: 30px;
+    display: block;
+
+}

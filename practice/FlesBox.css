@@ -1,0 +1,17 @@
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    height: 200px;
+    border: 2px solid black;
+
+}
+.boxitem {
+    width: 30%;
+    height: 100px;
+    border: 2px solid rgb(177, 45, 45);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

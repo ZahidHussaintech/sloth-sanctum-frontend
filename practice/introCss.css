@@ -1,0 +1,9 @@
+body {
+    background-color: lightgray;
+}
+
+p {
+    color: rgba(255, 128, 0, 0.975);font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
